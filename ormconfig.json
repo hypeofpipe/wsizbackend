@@ -1,0 +1,11 @@
+{
+  "type": "postgres",
+  "synchronize": true,
+  "autoSchemaSync": true,
+  "entities": [
+    "src/entity/*.ts"
+  ],
+  "cli": {
+    "entitiesDir": "src/entity"
+  }
+}

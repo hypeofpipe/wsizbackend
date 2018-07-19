@@ -1,0 +1,6 @@
+
+node_modules/\.bin/
+
+node_modules/@types/body-parser/node_modules/@types/node/
+
+node_modules/
